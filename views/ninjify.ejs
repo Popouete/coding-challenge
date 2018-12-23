@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aidez Papi Ninja!</title>
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <img src="images/papi_ninja.png" alt="papi_ninja" class="papiNinja"/>
+        <h1>Bonjour mon ami!</h1>
+
+        <p>Je ne me souviens plus de mon nom de ninja... <br>crois-tu que tu pourrais m'aider à le retrouver?</p>
+    <br>
+        <form id="contact-form" method="POST" action="/ninjify">
+            <label>Propose-moi un langage de programmation et <br> peut-être que je m'en souviendrai spontanément!</label><br>
+            <input type="text" name="x" value="<%= qs.x %>" required/><br>
+            <input type="submit" value="Propose ce langage à papi ninja!" />
+        </form>
+
+        <h2 id="names" style="display:none">
+            Tu viens de trouver la liste TOP secrète des langages de programmations, hourra!
+            <br>
+            <a  href="langage.txt" style="color:rgb(184, 72, 72)" download="technos_Top_secret">
+                C'est par ici!
+              </a>
+        </h2>
+
+        <img src="images/konami.png" id="ima_konami" alt="konami_cheat" onclick="montrerNoms()" >
+
+
+        <script>
+                function montrerNoms() {
+                  var x = document.getElementById("names");
+                  if (x.style.display === "none") {
+                    x.style.display = "block";
+                  } else {
+                    x.style.display = "none";
+                  }
+                }
+        </script>
+    </body>
+</html>

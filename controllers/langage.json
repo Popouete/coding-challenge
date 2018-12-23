@@ -1,0 +1,2822 @@
+[
+    {
+      "name": "A# .NET",
+      "url": "http://en.wikipedia.org/wiki/A_Sharp_(.NET)"
+    },
+    {
+      "name": "A# (Axiom)",
+      "url": "http://en.wikipedia.org/wiki/A_Sharp_(Axiom)"
+    },
+    {
+      "name": "A-0 System",
+      "url": "http://en.wikipedia.org/wiki/A-0_System"
+    },
+    {
+      "name": "A+",
+      "url": "http://en.wikipedia.org/wiki/A%2B_(programming_language)"
+    },
+    {
+      "name": "A++",
+      "url": "http://en.wikipedia.org/wiki/A%2B%2B"
+    },
+    {
+      "name": "ABAP",
+      "url": "http://en.wikipedia.org/wiki/ABAP"
+    },
+    {
+      "name": "ABC",
+      "url": "http://en.wikipedia.org/wiki/ABC_(programming_language)"
+    },
+    {
+      "name": "ABC ALGOL",
+      "url": "http://en.wikipedia.org/wiki/ABC_ALGOL"
+    },
+    {
+      "name": "ABLE",
+      "url": "http://en.wikipedia.org/wiki/ABLE_(programming_language)"
+    },
+    {
+      "name": "ABSET",
+      "url": "http://en.wikipedia.org/wiki/ABSET"
+    },
+    {
+      "name": "ABSYS",
+      "url": "http://en.wikipedia.org/wiki/ABSYS"
+    },
+    {
+      "name": "ACC",
+      "url": "http://en.wikipedia.org/wiki/ACC_(programming_language)"
+    },
+    {
+      "name": "Accent",
+      "url": "http://en.wikipedia.org/wiki/Accent_(programming_language)"
+    },
+    {
+      "name": "Ace DASL",
+      "url": "http://en.wikipedia.org/wiki/Distributed_Application_Specification_Language"
+    },
+    {
+      "name": "ACL2",
+      "url": "http://en.wikipedia.org/wiki/ACL2"
+    },
+    {
+      "name": "ACT-III",
+      "url": "http://en.wikipedia.org/wiki/LGP-30#ACT-III_programming_language"
+    },
+    {
+      "name": "Action!",
+      "url": "http://en.wikipedia.org/wiki/Action!_(programming_language)"
+    },
+    {
+      "name": "ActionScript",
+      "url": "http://en.wikipedia.org/wiki/ActionScript"
+    },
+    {
+      "name": "Ada",
+      "url": "http://en.wikipedia.org/wiki/Ada_(programming_language)"
+    },
+    {
+      "name": "Adenine",
+      "url": "http://en.wikipedia.org/wiki/Adenine_(programming_language)"
+    },
+    {
+      "name": "Agda",
+      "url": "http://en.wikipedia.org/wiki/Agda_(theorem_prover)"
+    },
+    {
+      "name": "Agilent VEE",
+      "url": "http://en.wikipedia.org/wiki/Agilent_VEE"
+    },
+    {
+      "name": "Agora",
+      "url": "http://en.wikipedia.org/wiki/Agora_(programming_language)"
+    },
+    {
+      "name": "AIMMS",
+      "url": "http://en.wikipedia.org/wiki/AIMMS"
+    },
+    {
+      "name": "Alef",
+      "url": "http://en.wikipedia.org/wiki/Alef_(programming_language)"
+    },
+    {
+      "name": "ALF",
+      "url": "http://en.wikipedia.org/wiki/Algebraic_Logic_Functional_programming_language"
+    },
+    {
+      "name": "ALGOL 58",
+      "url": "http://en.wikipedia.org/wiki/ALGOL_58"
+    },
+    {
+      "name": "ALGOL 60",
+      "url": "http://en.wikipedia.org/wiki/ALGOL_60"
+    },
+    {
+      "name": "ALGOL 68",
+      "url": "http://en.wikipedia.org/wiki/ALGOL_68"
+    },
+    {
+      "name": "ALGOL W",
+      "url": "http://en.wikipedia.org/wiki/ALGOL_W"
+    },
+    {
+      "name": "Alice",
+      "url": "http://en.wikipedia.org/wiki/Alice_(programming_language)"
+    },
+    {
+      "name": "Alma-0",
+      "url": "http://en.wikipedia.org/wiki/Alma-0"
+    },
+    {
+      "name": "AmbientTalk",
+      "url": "http://en.wikipedia.org/wiki/AmbientTalk"
+    },
+    {
+      "name": "Amiga E",
+      "url": "http://en.wikipedia.org/wiki/Amiga_E"
+    },
+    {
+      "name": "AMOS",
+      "url": "http://en.wikipedia.org/wiki/AMOS_(programming_language)"
+    },
+    {
+      "name": "AMPL",
+      "url": "http://en.wikipedia.org/wiki/AMPL"
+    },
+    {
+      "name": "APL",
+      "url": "http://en.wikipedia.org/wiki/APL_(programming_language)"
+    },
+    {
+      "name": "App Inventor for Android's visual block language",
+      "url": "http://en.wikipedia.org/wiki/App_Inventor_for_Android_(programming_language)"
+    },
+    {
+      "name": "AppleScript",
+      "url": "http://en.wikipedia.org/wiki/AppleScript"
+    },
+    {
+      "name": "Arc",
+      "url": "http://en.wikipedia.org/wiki/Arc_(programming_language)"
+    },
+    {
+      "name": "ARexx",
+      "url": "http://en.wikipedia.org/wiki/ARexx"
+    },
+    {
+      "name": "Argus",
+      "url": "http://en.wikipedia.org/wiki/Argus_(programming_language)"
+    },
+    {
+      "name": "AspectJ",
+      "url": "http://en.wikipedia.org/wiki/AspectJ"
+    },
+    {
+      "name": "Assembly language",
+      "url": "http://en.wikipedia.org/wiki/Assembly_language"
+    },
+    {
+      "name": "ATS",
+      "url": "http://en.wikipedia.org/wiki/ATS_(programming_language)"
+    },
+    {
+      "name": "Ateji PX",
+      "url": "http://en.wikipedia.org/wiki/Ateji_PX"
+    },
+    {
+      "name": "AutoHotkey",
+      "url": "http://en.wikipedia.org/wiki/AutoHotkey"
+    },
+    {
+      "name": "Autocoder",
+      "url": "http://en.wikipedia.org/wiki/Autocoder"
+    },
+    {
+      "name": "AutoIt",
+      "url": "http://en.wikipedia.org/wiki/AutoIt"
+    },
+    {
+      "name": "AutoLISP / Visual LISP",
+      "url": "http://en.wikipedia.org/wiki/AutoLISP"
+    },
+    {
+      "name": "Averest",
+      "url": "http://en.wikipedia.org/wiki/Averest"
+    },
+    {
+      "name": "AWK",
+      "url": "http://en.wikipedia.org/wiki/AWK"
+    },
+    {
+      "name": "Axum",
+      "url": "http://en.wikipedia.org/wiki/Axum_(programming_language)"
+    },
+    {
+      "name": "B",
+      "url": "http://en.wikipedia.org/wiki/B_(programming_language)"
+    },
+    {
+      "name": "Babbage",
+      "url": "http://en.wikipedia.org/wiki/Babbage_(programming_language)"
+    },
+    {
+      "name": "Bash",
+      "url": "http://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+    },
+    {
+      "name": "BASIC",
+      "url": "http://en.wikipedia.org/wiki/BASIC"
+    },
+    {
+      "name": "bc",
+      "url": "http://en.wikipedia.org/wiki/Bc_(programming_language)"
+    },
+    {
+      "name": "BCPL",
+      "url": "http://en.wikipedia.org/wiki/BCPL"
+    },
+    {
+      "name": "BeanShell",
+      "url": "http://en.wikipedia.org/wiki/BeanShell"
+    },
+    {
+      "name": "Batch (Windows/Dos)",
+      "url": "http://en.wikipedia.org/wiki/Batch_file"
+    },
+    {
+      "name": "Bertrand",
+      "url": "http://en.wikipedia.org/wiki/Bertrand_(programming_language)"
+    },
+    {
+      "name": "BETA",
+      "url": "http://en.wikipedia.org/wiki/BETA_(programming_language)"
+    },
+    {
+      "name": "Bigwig",
+      "url": "http://en.wikipedia.org/wiki/Bigwig_(programming_language)"
+    },
+    {
+      "name": "Bistro",
+      "url": "http://en.wikipedia.org/wiki/Bistro_(programming_language)"
+    },
+    {
+      "name": "BitC",
+      "url": "http://en.wikipedia.org/wiki/BitC"
+    },
+    {
+      "name": "BLISS",
+      "url": "http://en.wikipedia.org/wiki/BLISS_(programming_language)"
+    },
+    {
+      "name": "Blue",
+      "url": "http://en.wikipedia.org/wiki/Blue_(programming_language)"
+    },
+    {
+      "name": "Bon",
+      "url": "http://en.wikipedia.org/wiki/Bon_(programming_language)"
+    },
+    {
+      "name": "Boo",
+      "url": "http://en.wikipedia.org/wiki/Boo_(programming_language)"
+    },
+    {
+      "name": "Boomerang",
+      "url": "http://en.wikipedia.org/wiki/Boomerang_(programming_language)"
+    },
+    {
+      "name": "Bourne shell",
+      "url": "http://en.wikipedia.org/wiki/Bourne_shell"
+    },
+    {
+      "name": "bash",
+      "url": "http://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+    },
+    {
+      "name": "ksh",
+      "url": "http://en.wikipedia.org/wiki/Korn_shell"
+    },
+    {
+      "name": "BREW",
+      "url": "http://en.wikipedia.org/wiki/Qualcomm_Brew"
+    },
+    {
+      "name": "BPEL",
+      "url": "http://en.wikipedia.org/wiki/Business_Process_Execution_Language"
+    },
+    {
+      "name": "C",
+      "url": "http://en.wikipedia.org/wiki/C_(programming_language)"
+    },
+    {
+      "name": "C--",
+      "url": "http://en.wikipedia.org/wiki/C--"
+    },
+    {
+      "name": "C++",
+      "url": "http://en.wikipedia.org/wiki/C%2B%2B"
+    },
+    {
+      "name": "C#",
+      "url": "http://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+    },
+    {
+      "name": "C/AL",
+      "url": "http://en.wikipedia.org/wiki/C/AL"
+    },
+    {
+      "name": "Caché ObjectScript",
+      "url": "http://en.wikipedia.org/wiki/Cach%C3%A9_ObjectScript"
+    },
+    {
+      "name": "C Shell",
+      "url": "http://en.wikipedia.org/wiki/C_Shell"
+    },
+    {
+      "name": "Caml",
+      "url": "http://en.wikipedia.org/wiki/Caml"
+    },
+    {
+      "name": "Candle",
+      "url": "http://en.wikipedia.org/wiki/Candle_(programming_language)"
+    },
+    {
+      "name": "Cayenne",
+      "url": "http://en.wikipedia.org/wiki/Cayenne_(programming_language)"
+    },
+    {
+      "name": "CDuce",
+      "url": "http://en.wikipedia.org/wiki/CDuce"
+    },
+    {
+      "name": "Cecil",
+      "url": "http://en.wikipedia.org/wiki/Cecil_(programming_language)"
+    },
+    {
+      "name": "Cel",
+      "url": "http://en.wikipedia.org/wiki/Cel_(programming_language)"
+    },
+    {
+      "name": "Cesil",
+      "url": "http://en.wikipedia.org/wiki/Cesil"
+    },
+    {
+      "name": "Ceylon",
+      "url": "http://en.wikipedia.org/wiki/Ceylon_(programming_language)"
+    },
+    {
+      "name": "CFEngine",
+      "url": "http://en.wikipedia.org/wiki/CFEngine"
+    },
+    {
+      "name": "CFML",
+      "url": "http://en.wikipedia.org/wiki/ColdFusion_Markup_Language"
+    },
+    {
+      "name": "Cg",
+      "url": "http://en.wikipedia.org/wiki/Cg_(programming_language)"
+    },
+    {
+      "name": "Ch",
+      "url": "http://en.wikipedia.org/wiki/Ch_(computer_programming)"
+    },
+    {
+      "name": "Chapel",
+      "url": "http://en.wikipedia.org/wiki/Chapel_(programming_language)"
+    },
+    {
+      "name": "CHAIN",
+      "url": "http://en.wikipedia.org/wiki/CHAIN_(programming_language)"
+    },
+    {
+      "name": "Charity",
+      "url": "http://en.wikipedia.org/wiki/Charity_(programming_language)"
+    },
+    {
+      "name": "Charm",
+      "url": "http://en.wikipedia.org/wiki/Charm_(language)"
+    },
+    {
+      "name": "Chef",
+      "url": "http://en.wikipedia.org/wiki/Chef_(programming_language)"
+    },
+    {
+      "name": "CHILL",
+      "url": "http://en.wikipedia.org/wiki/CHILL"
+    },
+    {
+      "name": "CHIP-8",
+      "url": "http://en.wikipedia.org/wiki/CHIP-8"
+    },
+    {
+      "name": "chomski",
+      "url": "http://en.wikipedia.org/wiki/Chomski"
+    },
+    {
+      "name": "ChucK",
+      "url": "http://en.wikipedia.org/wiki/ChucK"
+    },
+    {
+      "name": "CICS",
+      "url": "http://en.wikipedia.org/wiki/CICS"
+    },
+    {
+      "name": "Cilk",
+      "url": "http://en.wikipedia.org/wiki/Cilk"
+    },
+    {
+      "name": "CL",
+      "url": "http://en.wikipedia.org/wiki/AS/400_Control_Language"
+    },
+    {
+      "name": "Claire",
+      "url": "http://en.wikipedia.org/wiki/Claire_(programming_language)"
+    },
+    {
+      "name": "Clarion",
+      "url": "http://en.wikipedia.org/wiki/Clarion_(programming_language)"
+    },
+    {
+      "name": "Clean",
+      "url": "http://en.wikipedia.org/wiki/Clean_(programming_language)"
+    },
+    {
+      "name": "Clipper",
+      "url": "http://en.wikipedia.org/wiki/Clipper_(programming_language)"
+    },
+    {
+      "name": "CLIST",
+      "url": "http://en.wikipedia.org/wiki/CLIST"
+    },
+    {
+      "name": "Clojure",
+      "url": "http://en.wikipedia.org/wiki/Clojure"
+    },
+    {
+      "name": "CLU",
+      "url": "http://en.wikipedia.org/wiki/CLU_(programming_language)"
+    },
+    {
+      "name": "CMS-2",
+      "url": "http://en.wikipedia.org/wiki/CMS-2_(programming_language)"
+    },
+    {
+      "name": "COBOL",
+      "url": "http://en.wikipedia.org/wiki/COBOL"
+    },
+    {
+      "name": "Cobra",
+      "url": "http://en.wikipedia.org/wiki/Cobra_(programming_language)"
+    },
+    {
+      "name": "CODE",
+      "url": "http://en.wikipedia.org/wiki/CODE_(programming_language)"
+    },
+    {
+      "name": "CoffeeScript",
+      "url": "http://en.wikipedia.org/wiki/CoffeeScript"
+    },
+    {
+      "name": "Cola",
+      "url": "http://en.wikipedia.org/wiki/Cola_(programming_language)"
+    },
+    {
+      "name": "ColdC",
+      "url": "http://en.wikipedia.org/wiki/ColdC"
+    },
+    {
+      "name": "ColdFusion",
+      "url": "http://en.wikipedia.org/wiki/ColdFusion"
+    },
+    {
+      "name": "COMAL",
+      "url": "http://en.wikipedia.org/wiki/COMAL"
+    },
+    {
+      "name": "Combined Programming Language",
+      "url": "http://en.wikipedia.org/wiki/Combined_Programming_Language"
+    },
+    {
+      "name": "COMIT",
+      "url": "http://en.wikipedia.org/wiki/COMIT"
+    },
+    {
+      "name": "Common Intermediate Language",
+      "url": "http://en.wikipedia.org/wiki/Common_Intermediate_Language"
+    },
+    {
+      "name": "Common Lisp",
+      "url": "http://en.wikipedia.org/wiki/Common_Lisp"
+    },
+    {
+      "name": "COMPASS",
+      "url": "http://en.wikipedia.org/wiki/COMPASS"
+    },
+    {
+      "name": "Component Pascal",
+      "url": "http://en.wikipedia.org/wiki/Component_Pascal"
+    },
+    {
+      "name": "Constraint Handling Rules",
+      "url": "http://en.wikipedia.org/wiki/Constraint_Handling_Rules"
+    },
+    {
+      "name": "Converge",
+      "url": "http://en.wikipedia.org/wiki/Converge_(programming_language)"
+    },
+    {
+      "name": "Cool",
+      "url": "http://en.wikipedia.org/wiki/Cool_(programming_language)"
+    },
+    {
+      "name": "Coq",
+      "url": "http://en.wikipedia.org/wiki/Coq"
+    },
+    {
+      "name": "Coral 66",
+      "url": "http://en.wikipedia.org/wiki/Coral_66"
+    },
+    {
+      "name": "Corn",
+      "url": "http://en.wikipedia.org/wiki/Corn_(emulator)"
+    },
+    {
+      "name": "CorVision",
+      "url": "http://en.wikipedia.org/wiki/CorVision"
+    },
+    {
+      "name": "COWSEL",
+      "url": "http://en.wikipedia.org/wiki/COWSEL"
+    },
+    {
+      "name": "CPL",
+      "url": "http://en.wikipedia.org/wiki/Combined_Programming_Language"
+    },
+    {
+      "name": "csh",
+      "url": "http://en.wikipedia.org/wiki/C_shell"
+    },
+    {
+      "name": "CSP",
+      "url": "http://en.wikipedia.org/wiki/Communicating_sequential_processes"
+    },
+    {
+      "name": "Csound",
+      "url": "http://en.wikipedia.org/wiki/Csound"
+    },
+    {
+      "name": "CUDA",
+      "url": "http://en.wikipedia.org/wiki/CUDA"
+    },
+    {
+      "name": "Curl",
+      "url": "http://en.wikipedia.org/wiki/Curl_(programming_language)"
+    },
+    {
+      "name": "Curry",
+      "url": "http://en.wikipedia.org/wiki/Curry_(programming_language)"
+    },
+    {
+      "name": "Cyclone",
+      "url": "http://en.wikipedia.org/wiki/Cyclone_(programming_language)"
+    },
+    {
+      "name": "Cython",
+      "url": "http://en.wikipedia.org/wiki/Cython"
+    },
+    {
+      "name": "D",
+      "url": "http://en.wikipedia.org/wiki/D_(programming_language)"
+    },
+    {
+      "name": "DASL",
+      "url": "http://en.wikipedia.org/wiki/Datapoint%27s_Advanced_Systems_Language"
+    },
+    {
+      "name": "DASL",
+      "url": "http://en.wikipedia.org/wiki/Distributed_Application_Specification_Language"
+    },
+    {
+      "name": "Dart",
+      "url": "http://en.wikipedia.org/wiki/Dart_(programming_language)"
+    },
+    {
+      "name": "DataFlex",
+      "url": "http://en.wikipedia.org/wiki/DataFlex"
+    },
+    {
+      "name": "Datalog",
+      "url": "http://en.wikipedia.org/wiki/Datalog"
+    },
+    {
+      "name": "DATATRIEVE",
+      "url": "http://en.wikipedia.org/wiki/DATATRIEVE"
+    },
+    {
+      "name": "dBase",
+      "url": "http://en.wikipedia.org/wiki/DBase"
+    },
+    {
+      "name": "dc",
+      "url": "http://en.wikipedia.org/wiki/Dc_(computer_program)"
+    },
+    {
+      "name": "DCL",
+      "url": "http://en.wikipedia.org/wiki/DIGITAL_Command_Language"
+    },
+    {
+      "name": "Deesel",
+      "url": "http://en.wikipedia.org/wiki/Deesel"
+    },
+    {
+      "name": "Delphi",
+      "url": "http://en.wikipedia.org/wiki/Delphi_(programming_language)"
+    },
+    {
+      "name": "DCL",
+      "url": "http://en.wikipedia.org/wiki/DIGITAL_Command_Language"
+    },
+    {
+      "name": "DinkC",
+      "url": "http://en.wikipedia.org/wiki/Dink_Smallwood#Modification"
+    },
+    {
+      "name": "DIBOL",
+      "url": "http://en.wikipedia.org/wiki/DIBOL"
+    },
+    {
+      "name": "Dog",
+      "url": "http://en.wikipedia.org/wiki/Sepandar_Kamvar#.22Dog.22_programming_language"
+    },
+    {
+      "name": "Draco",
+      "url": "http://en.wikipedia.org/wiki/Draco_(programming_language)"
+    },
+    {
+      "name": "DRAKON",
+      "url": "http://en.wikipedia.org/wiki/DRAKON"
+    },
+    {
+      "name": "Dylan",
+      "url": "http://en.wikipedia.org/wiki/Dylan_(programming_language)"
+    },
+    {
+      "name": "DYNAMO",
+      "url": "http://en.wikipedia.org/wiki/DYNAMO_(programming_language)"
+    },
+    {
+      "name": "E",
+      "url": "http://en.wikipedia.org/wiki/E_(programming_language)"
+    },
+    {
+      "name": "E#",
+      "url": "http://en.wikipedia.org/wiki/E_Sharp_(programming_language)"
+    },
+    {
+      "name": "Ease",
+      "url": "http://en.wikipedia.org/wiki/Ease_(programming_language)"
+    },
+    {
+      "name": "Easy PL/I",
+      "url": "http://en.wikipedia.org/wiki/PL/I"
+    },
+    {
+      "name": "Easy Programming Language",
+      "url": "http://en.wikipedia.org/wiki/Easy_Programming_Language"
+    },
+    {
+      "name": "EASYTRIEVE PLUS",
+      "url": "http://en.wikipedia.org/wiki/Easytrieve"
+    },
+    {
+      "name": "ECMAScript",
+      "url": "http://en.wikipedia.org/wiki/ECMAScript"
+    },
+    {
+      "name": "Edinburgh IMP",
+      "url": "http://en.wikipedia.org/wiki/Edinburgh_IMP"
+    },
+    {
+      "name": "EGL",
+      "url": "http://en.wikipedia.org/wiki/EGL_(programming_language)"
+    },
+    {
+      "name": "Eiffel",
+      "url": "http://en.wikipedia.org/wiki/Eiffel_(programming_language)"
+    },
+    {
+      "name": "ELAN",
+      "url": "http://en.wikipedia.org/wiki/ELAN_(programming_language)"
+    },
+    {
+      "name": "Elixir",
+      "url": "http://en.wikipedia.org/wiki/Elixir_(programming_language)"
+    },
+    {
+      "name": "Elm",
+      "url": "http://en.wikipedia.org/wiki/Elm_(programming_language)"
+    },
+    {
+      "name": "Emacs Lisp",
+      "url": "http://en.wikipedia.org/wiki/Emacs_Lisp"
+    },
+    {
+      "name": "Emerald",
+      "url": "http://en.wikipedia.org/wiki/Emerald_(programming_language)"
+    },
+    {
+      "name": "Epigram",
+      "url": "http://en.wikipedia.org/wiki/Epigram_(programming_language)"
+    },
+    {
+      "name": "EPL",
+      "url": "http://en.wikipedia.org/wiki/Easy_Programming_Language"
+    },
+    {
+      "name": "Erlang",
+      "url": "http://en.wikipedia.org/wiki/Erlang_(programming_language)"
+    },
+    {
+      "name": "es",
+      "url": "http://en.wikipedia.org/wiki/Es_(Unix_shell)"
+    },
+    {
+      "name": "Escapade",
+      "url": "http://en.wikipedia.org/wiki/Escapade_(programming_language)"
+    },
+    {
+      "name": "Escher",
+      "url": "http://en.wikipedia.org/wiki/Escher_(programming_language)"
+    },
+    {
+      "name": "ESPOL",
+      "url": "http://en.wikipedia.org/wiki/Executive_Systems_Problem_Oriented_Language"
+    },
+    {
+      "name": "Esterel",
+      "url": "http://en.wikipedia.org/wiki/Esterel"
+    },
+    {
+      "name": "Etoys",
+      "url": "http://en.wikipedia.org/wiki/Etoys_(programming_language)"
+    },
+    {
+      "name": "Euclid",
+      "url": "http://en.wikipedia.org/wiki/Euclid_(programming_language)"
+    },
+    {
+      "name": "Euler",
+      "url": "http://en.wikipedia.org/wiki/Euler_(programming_language)"
+    },
+    {
+      "name": "Euphoria",
+      "url": "http://en.wikipedia.org/wiki/Euphoria_(programming_language)"
+    },
+    {
+      "name": "EusLisp Robot Programming Language",
+      "url": "http://en.wikipedia.org/wiki/EusLisp_Robot_Programming_Language"
+    },
+    {
+      "name": "CMS EXEC",
+      "url": "http://en.wikipedia.org/wiki/CMS_EXEC"
+    },
+    {
+      "name": "EXEC 2",
+      "url": "http://en.wikipedia.org/wiki/EXEC_2"
+    },
+    {
+      "name": "Executable UML",
+      "url": "http://en.wikipedia.org/wiki/Executable_UML"
+    },
+    {
+      "name": "F",
+      "url": "http://en.wikipedia.org/wiki/F_(programming_language)"
+    },
+    {
+      "name": "F#",
+      "url": "http://en.wikipedia.org/wiki/F_Sharp_(programming_language)"
+    },
+    {
+      "name": "Factor",
+      "url": "http://en.wikipedia.org/wiki/Factor_(programming_language)"
+    },
+    {
+      "name": "Falcon",
+      "url": "http://en.wikipedia.org/wiki/Falcon_(programming_language)"
+    },
+    {
+      "name": "Fancy",
+      "url": "http://en.wikipedia.org/wiki/Fancy_(programming_language)"
+    },
+    {
+      "name": "Fantom",
+      "url": "http://en.wikipedia.org/wiki/Fantom_(programming_language)"
+    },
+    {
+      "name": "FAUST",
+      "url": "http://en.wikipedia.org/wiki/FAUST_(programming_language)"
+    },
+    {
+      "name": "Felix",
+      "url": "http://en.wikipedia.org/wiki/Felix_(programming_language)"
+    },
+    {
+      "name": "Ferite",
+      "url": "http://en.wikipedia.org/wiki/Ferite"
+    },
+    {
+      "name": "FFP",
+      "url": "http://en.wikipedia.org/wiki/FFP_(programming_language)"
+    },
+    {
+      "name": "Fjölnir",
+      "url": "http://en.wikipedia.org/wiki/Fj%C3%B6lnir_(programming_language)"
+    },
+    {
+      "name": "FL",
+      "url": "http://en.wikipedia.org/wiki/FL_(programming_language)"
+    },
+    {
+      "name": "Flavors",
+      "url": "http://en.wikipedia.org/wiki/Flavors_(programming_language)"
+    },
+    {
+      "name": "Flex",
+      "url": "http://en.wikipedia.org/wiki/Flex_(programming_language)"
+    },
+    {
+      "name": "FLOW-MATIC",
+      "url": "http://en.wikipedia.org/wiki/FLOW-MATIC"
+    },
+    {
+      "name": "FOCAL",
+      "url": "http://en.wikipedia.org/wiki/FOCAL_(programming_language)"
+    },
+    {
+      "name": "FOCUS",
+      "url": "http://en.wikipedia.org/wiki/FOCUS"
+    },
+    {
+      "name": "FOIL",
+      "url": "http://en.wikipedia.org/wiki/FOIL_(programming_language)"
+    },
+    {
+      "name": "FORMAC",
+      "url": "http://en.wikipedia.org/wiki/FORMAC_(programming_language)"
+    },
+    {
+      "name": "@Formula",
+      "url": "http://en.wikipedia.org/wiki/Formula_language"
+    },
+    {
+      "name": "Forth",
+      "url": "http://en.wikipedia.org/wiki/Forth_(programming_language)"
+    },
+    {
+      "name": "Fortran",
+      "url": "http://en.wikipedia.org/wiki/Fortran"
+    },
+    {
+      "name": "Fortress",
+      "url": "http://en.wikipedia.org/wiki/Fortress_(programming_language)"
+    },
+    {
+      "name": "FoxBase",
+      "url": "http://en.wikipedia.org/wiki/FoxBase"
+    },
+    {
+      "name": "FoxPro",
+      "url": "http://en.wikipedia.org/wiki/FoxPro_(disambiguation)"
+    },
+    {
+      "name": "FP",
+      "url": "http://en.wikipedia.org/wiki/FP_(programming_language)"
+    },
+    {
+      "name": "FPr",
+      "url": "http://en.wikipedia.org/wiki/FPr_(programming_language)"
+    },
+    {
+      "name": "Franz Lisp",
+      "url": "http://en.wikipedia.org/wiki/Franz_Lisp"
+    },
+    {
+      "name": "F-Script",
+      "url": "http://en.wikipedia.org/wiki/F-Script_(programming_language)"
+    },
+    {
+      "name": "FSProg",
+      "url": "http://fr.wikipedia.org/wiki/FSProg"
+    },
+    {
+      "name": "G",
+      "url": "http://en.wikipedia.org/wiki/G_(programming_language)"
+    },
+    {
+      "name": "Google Apps Script",
+      "url": "http://en.wikipedia.org/wiki/Google_Apps_Script"
+    },
+    {
+      "name": "Game Maker Language",
+      "url": "http://en.wikipedia.org/wiki/GameMaker:_Studio"
+    },
+    {
+      "name": "GameMonkey Script",
+      "url": "http://en.wikipedia.org/wiki/GameMonkey_Script"
+    },
+    {
+      "name": "GAMS",
+      "url": "http://en.wikipedia.org/wiki/General_Algebraic_Modeling_System"
+    },
+    {
+      "name": "GAP",
+      "url": "http://en.wikipedia.org/wiki/GAP_computer_algebra_system"
+    },
+    {
+      "name": "G-code",
+      "url": "http://en.wikipedia.org/wiki/G-code"
+    },
+    {
+      "name": "Genie",
+      "url": "http://en.wikipedia.org/wiki/Genie_(programming_language)"
+    },
+    {
+      "name": "GDL",
+      "url": "http://en.wikipedia.org/wiki/Geometric_Description_Language"
+    },
+    {
+      "name": "Gibiane",
+      "url": "http://en.wikipedia.org/wiki/Gibiane"
+    },
+    {
+      "name": "GJ",
+      "url": "http://en.wikipedia.org/wiki/Generic_Java"
+    },
+    {
+      "name": "GEORGE",
+      "url": "http://en.wikipedia.org/wiki/GEORGE_(programming_language)"
+    },
+    {
+      "name": "GLSL",
+      "url": "http://en.wikipedia.org/wiki/GLSL"
+    },
+    {
+      "name": "GNU E",
+      "url": "http://en.wikipedia.org/wiki/GNU_E"
+    },
+    {
+      "name": "GM",
+      "url": "http://en.wikipedia.org/wiki/Golden_master"
+    },
+    {
+      "name": "Go",
+      "url": "http://en.wikipedia.org/wiki/Go_(programming_language)"
+    },
+    {
+      "name": "Go!",
+      "url": "http://en.wikipedia.org/wiki/Go!_(programming_language)"
+    },
+    {
+      "name": "GOAL",
+      "url": "http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp"
+    },
+    {
+      "name": "Gödel",
+      "url": "http://en.wikipedia.org/wiki/G%C3%B6del_(programming_language)"
+    },
+    {
+      "name": "Godiva",
+      "url": "http://en.wikipedia.org/wiki/Godiva_(programming_language)"
+    },
+    {
+      "name": "GOM (Good Old Mad)",
+      "url": "http://en.wikipedia.org/wiki/MAD_(programming_language)"
+    },
+    {
+      "name": "Goo",
+      "url": "http://en.wikipedia.org/wiki/Goo_(programming_language)"
+    },
+    {
+      "name": "Gosu",
+      "url": "http://en.wikipedia.org/wiki/Gosu_(programming_language)"
+    },
+    {
+      "name": "GOTRAN",
+      "url": "http://en.wikipedia.org/wiki/IBM_1620#GOTRAN"
+    },
+    {
+      "name": "GPSS",
+      "url": "http://en.wikipedia.org/wiki/GPSS"
+    },
+    {
+      "name": "GraphTalk",
+      "url": "http://en.wikipedia.org/wiki/Computer_Sciences_Corporation"
+    },
+    {
+      "name": "GRASS",
+      "url": "http://en.wikipedia.org/wiki/GRASS_(programming_language)"
+    },
+    {
+      "name": "Groovy",
+      "url": "http://en.wikipedia.org/wiki/Groovy_(programming_language)"
+    },
+    {
+      "name": "Hack (programming language)",
+      "url": "http://en.wikipedia.org/wiki/Hack_(programming_language)"
+    },
+    {
+      "name": "HAL/S",
+      "url": "http://en.wikipedia.org/wiki/HAL/S"
+    },
+    {
+      "name": "Hamilton C shell",
+      "url": "http://en.wikipedia.org/wiki/Hamilton_C_shell"
+    },
+    {
+      "name": "Harbour",
+      "url": "http://en.wikipedia.org/wiki/Harbour_(software)"
+    },
+    {
+      "name": "Hartmann pipelines",
+      "url": "http://en.wikipedia.org/wiki/Hartmann_pipeline"
+    },
+    {
+      "name": "Haskell",
+      "url": "http://en.wikipedia.org/wiki/Haskell_(programming_language)"
+    },
+    {
+      "name": "Haxe",
+      "url": "http://en.wikipedia.org/wiki/Haxe"
+    },
+    {
+      "name": "High Level Assembly",
+      "url": "http://en.wikipedia.org/wiki/High_Level_Assembly"
+    },
+    {
+      "name": "HLSL",
+      "url": "http://en.wikipedia.org/wiki/High_Level_Shader_Language"
+    },
+    {
+      "name": "Hop",
+      "url": "http://en.wikipedia.org/wiki/Hop_(software)"
+    },
+    {
+      "name": "Hope",
+      "url": "http://en.wikipedia.org/wiki/Hope_(programming_language)"
+    },
+    {
+      "name": "Hugo",
+      "url": "http://en.wikipedia.org/wiki/Hugo_(programming_language)"
+    },
+    {
+      "name": "Hume",
+      "url": "http://en.wikipedia.org/wiki/Hume_(language)"
+    },
+    {
+      "name": "HyperTalk",
+      "url": "http://en.wikipedia.org/wiki/HyperTalk"
+    },
+    {
+      "name": "IBM Basic assembly language",
+      "url": "http://en.wikipedia.org/wiki/IBM_Basic_assembly_language"
+    },
+    {
+      "name": "IBM HAScript",
+      "url": "http://en.wikipedia.org/wiki/IBM_HAScript"
+    },
+    {
+      "name": "IBM Informix-4GL",
+      "url": "http://en.wikipedia.org/wiki/IBM_Informix-4GL"
+    },
+    {
+      "name": "IBM RPG",
+      "url": "http://en.wikipedia.org/wiki/IBM_RPG"
+    },
+    {
+      "name": "ICI",
+      "url": "http://en.wikipedia.org/wiki/ICI_(programming_language)"
+    },
+    {
+      "name": "Icon",
+      "url": "http://en.wikipedia.org/wiki/Icon_(programming_language)"
+    },
+    {
+      "name": "Id",
+      "url": "http://en.wikipedia.org/wiki/Id_(programming_language)"
+    },
+    {
+      "name": "IDL",
+      "url": "http://en.wikipedia.org/wiki/IDL_(programming_language)"
+    },
+    {
+      "name": "Idris",
+      "url": "http://en.wikipedia.org/wiki/Idris_(programming_language)"
+    },
+    {
+      "name": "IMP",
+      "url": "http://en.wikipedia.org/wiki/IMP_(programming_language)"
+    },
+    {
+      "name": "Inform",
+      "url": "http://en.wikipedia.org/wiki/Inform"
+    },
+    {
+      "name": "Io",
+      "url": "http://en.wikipedia.org/wiki/Io_(programming_language)"
+    },
+    {
+      "name": "Ioke",
+      "url": "http://en.wikipedia.org/wiki/Ioke_(programming_language)"
+    },
+    {
+      "name": "IPL",
+      "url": "http://en.wikipedia.org/wiki/Information_Processing_Language"
+    },
+    {
+      "name": "IPTSCRAE",
+      "url": "http://en.wikipedia.org/wiki/IPTSCRAE"
+    },
+    {
+      "name": "ISLISP",
+      "url": "http://en.wikipedia.org/wiki/ISLISP"
+    },
+    {
+      "name": "ISPF",
+      "url": "http://en.wikipedia.org/wiki/ISPF"
+    },
+    {
+      "name": "ISWIM",
+      "url": "http://en.wikipedia.org/wiki/ISWIM"
+    },
+    {
+      "name": "J",
+      "url": "http://en.wikipedia.org/wiki/J_(programming_language)"
+    },
+    {
+      "name": "J#",
+      "url": "http://en.wikipedia.org/wiki/J_Sharp"
+    },
+    {
+      "name": "J++",
+      "url": "http://en.wikipedia.org/wiki/Visual_J%2B%2B"
+    },
+    {
+      "name": "JADE",
+      "url": "http://en.wikipedia.org/wiki/JADE_(programming_language)"
+    },
+    {
+      "name": "Jako",
+      "url": "http://en.wikipedia.org/wiki/Jako_(programming_language)"
+    },
+    {
+      "name": "JAL",
+      "url": "http://en.wikipedia.org/wiki/JAL_(compiler)"
+    },
+    {
+      "name": "Janus",
+      "url": "http://en.wikipedia.org/wiki/Janus_(programming_language)"
+    },
+    {
+      "name": "JASS",
+      "url": "http://en.wikipedia.org/wiki/JASS"
+    },
+    {
+      "name": "Java",
+      "url": "http://en.wikipedia.org/wiki/Java_(programming_language)"
+    },
+    {
+      "name": "JavaScript",
+      "url": "http://en.wikipedia.org/wiki/JavaScript"
+    },
+    {
+      "name": "JCL",
+      "url": "http://en.wikipedia.org/wiki/Job_Control_Language"
+    },
+    {
+      "name": "JEAN",
+      "url": "http://en.wikipedia.org/wiki/JEAN"
+    },
+    {
+      "name": "Join Java",
+      "url": "http://en.wikipedia.org/wiki/Join_Java"
+    },
+    {
+      "name": "JOSS",
+      "url": "http://en.wikipedia.org/wiki/JOSS"
+    },
+    {
+      "name": "Joule",
+      "url": "http://en.wikipedia.org/wiki/Joule_(programming_language)"
+    },
+    {
+      "name": "JOVIAL",
+      "url": "http://en.wikipedia.org/wiki/JOVIAL"
+    },
+    {
+      "name": "Joy",
+      "url": "http://en.wikipedia.org/wiki/Joy_(programming_language)"
+    },
+    {
+      "name": "JScript",
+      "url": "http://en.wikipedia.org/wiki/JScript"
+    },
+    {
+      "name": "JScript .NET",
+      "url": "http://en.wikipedia.org/wiki/JScript_.NET"
+    },
+    {
+      "name": "JavaFX Script",
+      "url": "http://en.wikipedia.org/wiki/JavaFX_Script"
+    },
+    {
+      "name": "Julia",
+      "url": "http://en.wikipedia.org/wiki/Julia_(programming_language)"
+    },
+    {
+      "name": "Jython",
+      "url": "http://en.wikipedia.org/wiki/Jython"
+    },
+    {
+      "name": "K",
+      "url": "http://en.wikipedia.org/wiki/K_(programming_language)"
+    },
+    {
+      "name": "Kaleidoscope",
+      "url": "http://en.wikipedia.org/wiki/Kaleidoscope_(programming_language)"
+    },
+    {
+      "name": "Karel",
+      "url": "http://en.wikipedia.org/wiki/Karel_(programming_language)"
+    },
+    {
+      "name": "Karel++",
+      "url": "http://en.wikipedia.org/wiki/Karel%2B%2B"
+    },
+    {
+      "name": "KEE",
+      "url": "http://en.wikipedia.org/wiki/IntelliCorp_(Software)"
+    },
+    {
+      "name": "Kixtart",
+      "url": "http://en.wikipedia.org/wiki/KiXtart"
+    },
+    {
+      "name": "KIF",
+      "url": "http://en.wikipedia.org/wiki/Knowledge_Interchange_Format"
+    },
+    {
+      "name": "Kojo",
+      "url": "http://en.wikipedia.org/wiki/Kojo_(programming_language)"
+    },
+    {
+      "name": "Kotlin",
+      "url": "http://en.wikipedia.org/wiki/Kotlin_(programming_language)"
+    },
+    {
+      "name": "KRC",
+      "url": "http://en.wikipedia.org/wiki/Kent_Recursive_Calculator"
+    },
+    {
+      "name": "KRL",
+      "url": "http://en.wikipedia.org/wiki/KRL_(programming_language)"
+    },
+    {
+      "name": "KUKA",
+      "url": "http://en.wikipedia.org/wiki/KUKA"
+    },
+    {
+      "name": "KRYPTON",
+      "url": "http://en.wikipedia.org/wiki/KRYPTON"
+    },
+    {
+      "name": "ksh",
+      "url": "http://en.wikipedia.org/wiki/Korn_shell"
+    },
+    {
+      "name": "L",
+      "url": "http://en.wikipedia.org/wiki/L_(programming_language)"
+    },
+    {
+      "name": "L# .NET",
+      "url": "http://en.wikipedia.org/wiki/L_Sharp"
+    },
+    {
+      "name": "LabVIEW",
+      "url": "http://en.wikipedia.org/wiki/LabVIEW"
+    },
+    {
+      "name": "Ladder",
+      "url": "http://en.wikipedia.org/wiki/Ladder_logic"
+    },
+    {
+      "name": "Lagoona",
+      "url": "http://en.wikipedia.org/wiki/Lagoona_(programming_language)"
+    },
+    {
+      "name": "LANSA",
+      "url": "http://en.wikipedia.org/wiki/LANSA_(development_environment)"
+    },
+    {
+      "name": "Lasso",
+      "url": "http://en.wikipedia.org/wiki/Lasso_(programming_language)"
+    },
+    {
+      "name": "LaTeX",
+      "url": "http://en.wikipedia.org/wiki/LaTeX"
+    },
+    {
+      "name": "Lava",
+      "url": "http://en.wikipedia.org/wiki/Lava_(programming_language)"
+    },
+    {
+      "name": "LC-3",
+      "url": "http://en.wikipedia.org/wiki/LC-3"
+    },
+    {
+      "name": "Leda",
+      "url": "http://en.wikipedia.org/wiki/Leda_(programming_language)"
+    },
+    {
+      "name": "Legoscript",
+      "url": "http://en.wikipedia.org/wiki/Lego_Mindstorms"
+    },
+    {
+      "name": "LIL",
+      "url": "http://en.wikipedia.org/wiki/Little_Implementation_Language"
+    },
+    {
+      "name": "LilyPond",
+      "url": "http://en.wikipedia.org/wiki/LilyPond"
+    },
+    {
+      "name": "Limbo",
+      "url": "http://en.wikipedia.org/wiki/Limbo_(programming_language)"
+    },
+    {
+      "name": "Limnor",
+      "url": "http://en.wikipedia.org/wiki/Limnor"
+    },
+    {
+      "name": "LINC",
+      "url": "http://en.wikipedia.org/wiki/LINC"
+    },
+    {
+      "name": "Lingo",
+      "url": "http://en.wikipedia.org/wiki/Lingo_(programming_language)"
+    },
+    {
+      "name": "Linoleum",
+      "url": "http://en.wikipedia.org/wiki/Linoleum_(programming_language)"
+    },
+    {
+      "name": "LIS",
+      "url": "http://en.wikipedia.org/wiki/LIS_(programming_language)"
+    },
+    {
+      "name": "LISA",
+      "url": "http://en.wikipedia.org/wiki/Language_for_Instruction_Set_Architecture"
+    },
+    {
+      "name": "Lisaac",
+      "url": "http://en.wikipedia.org/wiki/Lisaac"
+    },
+    {
+      "name": "Lisp",
+      "url": "http://en.wikipedia.org/wiki/Lisp_(programming_language)"
+    },
+    {
+      "name": "Lite-C",
+      "url": "http://en.wikipedia.org/wiki/Lite-C"
+    },
+    {
+      "name": "Lithe",
+      "url": "http://en.wikipedia.org/wiki/Lithe_(programming_language)"
+    },
+    {
+      "name": "Little b",
+      "url": "http://en.wikipedia.org/wiki/Little_b_(programming_language)"
+    },
+    {
+      "name": "Logo",
+      "url": "http://en.wikipedia.org/wiki/Logo_(programming_language)"
+    },
+    {
+      "name": "Logtalk",
+      "url": "http://en.wikipedia.org/wiki/Logtalk"
+    },
+    {
+      "name": "LPC",
+      "url": "http://en.wikipedia.org/wiki/LPC_(programming_language)"
+    },
+    {
+      "name": "LSE",
+      "url": "http://en.wikipedia.org/wiki/LSE_(programming_language)"
+    },
+    {
+      "name": "LSL",
+      "url": "http://en.wikipedia.org/wiki/Linden_Scripting_Language"
+    },
+    {
+      "name": "LiveCode",
+      "url": "http://en.wikipedia.org/wiki/LiveCode"
+    },
+    {
+      "name": "LiveScript",
+      "url": "http://en.wikipedia.org/wiki/LiveScript"
+    },
+    {
+      "name": "Lua",
+      "url": "http://en.wikipedia.org/wiki/Lua_(programming_language)"
+    },
+    {
+      "name": "Lucid",
+      "url": "http://en.wikipedia.org/wiki/Lucid_(programming_language)"
+    },
+    {
+      "name": "Lustre",
+      "url": "http://en.wikipedia.org/wiki/Lustre_(programming_language)"
+    },
+    {
+      "name": "LYaPAS",
+      "url": "http://en.wikipedia.org/wiki/LYaPAS"
+    },
+    {
+      "name": "Lynx",
+      "url": "http://en.wikipedia.org/wiki/Lynx_(programming_language)"
+    },
+    {
+      "name": "M2001",
+      "url": "http://en.wikipedia.org/wiki/M2001"
+    },
+    {
+      "name": "M4",
+      "url": "http://en.wikipedia.org/wiki/M4_(computer_language)"
+    },
+    {
+      "name": "Machine code",
+      "url": "http://en.wikipedia.org/wiki/Machine_code"
+    },
+    {
+      "name": "MAD",
+      "url": "http://en.wikipedia.org/wiki/MAD_(programming_language)"
+    },
+    {
+      "name": "MAD/I",
+      "url": "http://en.wikipedia.org/wiki/MAD_(programming_language)"
+    },
+    {
+      "name": "Magik",
+      "url": "http://en.wikipedia.org/wiki/Magik_(programming_language)"
+    },
+    {
+      "name": "Magma",
+      "url": "http://en.wikipedia.org/wiki/Magma_computer_algebra_system"
+    },
+    {
+      "name": "make",
+      "url": "http://en.wikipedia.org/wiki/Make_(software)"
+    },
+    {
+      "name": "Maple",
+      "url": "http://en.wikipedia.org/wiki/Maple_(software)"
+    },
+    {
+      "name": "MAPPER",
+      "url": "http://en.wikipedia.org/wiki/MAPPER"
+    },
+    {
+      "name": "MARK-IV",
+      "url": "http://en.wikipedia.org/wiki/MARK_IV_(software)"
+    },
+    {
+      "name": "Mary",
+      "url": "http://en.wikipedia.org/wiki/Mary_(programming_language)"
+    },
+    {
+      "name": "MASM Microsoft Assembly x86",
+      "url": "http://en.wikipedia.org/wiki/Microsoft_Macro_Assembler"
+    },
+    {
+      "name": "Mathematica",
+      "url": "http://en.wikipedia.org/wiki/Mathematica"
+    },
+    {
+      "name": "MATLAB",
+      "url": "http://en.wikipedia.org/wiki/MATLAB"
+    },
+    {
+      "name": "Maxima",
+      "url": "http://en.wikipedia.org/wiki/Maxima_(software)"
+    },
+    {
+      "name": "Macsyma",
+      "url": "http://en.wikipedia.org/wiki/Macsyma"
+    },
+    {
+      "name": "Max",
+      "url": "http://en.wikipedia.org/wiki/Max_(software)"
+    },
+    {
+      "name": "MaxScript",
+      "url": "http://en.wikipedia.org/wiki/Autodesk_3ds_Max"
+    },
+    {
+      "name": "Maya (MEL)",
+      "url": "http://en.wikipedia.org/wiki/Maya_Embedded_Language"
+    },
+    {
+      "name": "MDL",
+      "url": "http://en.wikipedia.org/wiki/MDL_(programming_language)"
+    },
+    {
+      "name": "Mercury",
+      "url": "http://en.wikipedia.org/wiki/Mercury_(programming_language)"
+    },
+    {
+      "name": "Mesa",
+      "url": "http://en.wikipedia.org/wiki/Mesa_(programming_language)"
+    },
+    {
+      "name": "Metacard",
+      "url": "http://en.wikipedia.org/wiki/Metacard"
+    },
+    {
+      "name": "Metafont",
+      "url": "http://en.wikipedia.org/wiki/Metafont"
+    },
+    {
+      "name": "MetaL",
+      "url": "http://en.wikipedia.org/wiki/MetaL_(programming_language)"
+    },
+    {
+      "name": "Microcode",
+      "url": "http://en.wikipedia.org/wiki/Microassembler"
+    },
+    {
+      "name": "MicroScript",
+      "url": "http://en.wikipedia.org/wiki/MicroScript_(programming_language)"
+    },
+    {
+      "name": "MIIS",
+      "url": "http://en.wikipedia.org/wiki/MIIS_(programming_language)"
+    },
+    {
+      "name": "MillScript",
+      "url": "http://en.wikipedia.org/wiki/MillScript"
+    },
+    {
+      "name": "MIMIC",
+      "url": "http://en.wikipedia.org/wiki/MIMIC"
+    },
+    {
+      "name": "Mirah",
+      "url": "http://en.wikipedia.org/wiki/Mirah_(programming_language)"
+    },
+    {
+      "name": "Miranda",
+      "url": "http://en.wikipedia.org/wiki/Miranda_(programming_language)"
+    },
+    {
+      "name": "MIVA Script",
+      "url": "http://en.wikipedia.org/wiki/MIVA_Script"
+    },
+    {
+      "name": "ML",
+      "url": "http://en.wikipedia.org/wiki/ML_(programming_language)"
+    },
+    {
+      "name": "Moby",
+      "url": "http://en.wikipedia.org/wiki/Moby_(programming_language)"
+    },
+    {
+      "name": "Model 204",
+      "url": "http://en.wikipedia.org/wiki/Model_204"
+    },
+    {
+      "name": "Modelica",
+      "url": "http://en.wikipedia.org/wiki/Modelica"
+    },
+    {
+      "name": "Modula",
+      "url": "http://en.wikipedia.org/wiki/Modula"
+    },
+    {
+      "name": "Modula-2",
+      "url": "http://en.wikipedia.org/wiki/Modula-2"
+    },
+    {
+      "name": "Modula-3",
+      "url": "http://en.wikipedia.org/wiki/Modula-3"
+    },
+    {
+      "name": "Mohol",
+      "url": "http://en.wikipedia.org/wiki/Mohol_programming_languages"
+    },
+    {
+      "name": "MOO",
+      "url": "http://en.wikipedia.org/wiki/MOO_(programming_language)"
+    },
+    {
+      "name": "Mortran",
+      "url": "http://en.wikipedia.org/wiki/Mortran"
+    },
+    {
+      "name": "Mouse",
+      "url": "http://en.wikipedia.org/wiki/Mouse_(programming_language)"
+    },
+    {
+      "name": "MPD",
+      "url": "http://en.wikipedia.org/wiki/MPD_(programming_language)"
+    },
+    {
+      "name": "CIL",
+      "url": "http://en.wikipedia.org/wiki/Common_Intermediate_Language"
+    },
+    {
+      "name": "MSL",
+      "url": "http://en.wikipedia.org/wiki/MIRC_scripting_language"
+    },
+    {
+      "name": "MUMPS",
+      "url": "http://en.wikipedia.org/wiki/MUMPS"
+    },
+    {
+      "name": "NASM",
+      "url": "http://en.wikipedia.org/wiki/Netwide_Assembler"
+    },
+    {
+      "name": "NATURAL",
+      "url": "http://en.wikipedia.org/wiki/NATURAL"
+    },
+    {
+      "name": "Napier88",
+      "url": "http://en.wikipedia.org/wiki/Napier88"
+    },
+    {
+      "name": "Neko",
+      "url": "http://en.wikipedia.org/wiki/Neko_(programming_language)"
+    },
+    {
+      "name": "Nemerle",
+      "url": "http://en.wikipedia.org/wiki/Nemerle"
+    },
+    {
+      "name": "nesC",
+      "url": "http://en.wikipedia.org/wiki/NesC"
+    },
+    {
+      "name": "NESL",
+      "url": "http://en.wikipedia.org/wiki/NESL"
+    },
+    {
+      "name": "Net.Data",
+      "url": "http://en.wikipedia.org/wiki/Net.Data"
+    },
+    {
+      "name": "NetLogo",
+      "url": "http://en.wikipedia.org/wiki/NetLogo"
+    },
+    {
+      "name": "NetRexx",
+      "url": "http://en.wikipedia.org/wiki/NetRexx"
+    },
+    {
+      "name": "NewLISP",
+      "url": "http://en.wikipedia.org/wiki/NewLISP"
+    },
+    {
+      "name": "NEWP",
+      "url": "http://en.wikipedia.org/wiki/NEWP"
+    },
+    {
+      "name": "Newspeak",
+      "url": "http://en.wikipedia.org/wiki/Newspeak_(programming_language)"
+    },
+    {
+      "name": "NewtonScript",
+      "url": "http://en.wikipedia.org/wiki/NewtonScript"
+    },
+    {
+      "name": "NGL",
+      "url": "http://en.wikipedia.org/wiki/NGL_(programming_language)"
+    },
+    {
+      "name": "Nial",
+      "url": "http://en.wikipedia.org/wiki/Nial"
+    },
+    {
+      "name": "Nice",
+      "url": "http://en.wikipedia.org/wiki/Nice_(programming_language)"
+    },
+    {
+      "name": "Nickle",
+      "url": "http://en.wikipedia.org/wiki/Nickle_(programming_language)"
+    },
+    {
+      "name": "NPL",
+      "url": "http://en.wikipedia.org/wiki/NORD_Programming_Language"
+    },
+    {
+      "name": "Not eXactly C",
+      "url": "http://en.wikipedia.org/wiki/Not_eXactly_C"
+    },
+    {
+      "name": "Not Quite C",
+      "url": "http://en.wikipedia.org/wiki/Not_Quite_C"
+    },
+    {
+      "name": "NSIS",
+      "url": "http://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System"
+    },
+    {
+      "name": "Nu",
+      "url": "http://en.wikipedia.org/wiki/Nu_(programming_language)"
+    },
+    {
+      "name": "NWScript",
+      "url": "http://en.wikipedia.org/wiki/NWScript"
+    },
+    {
+      "name": "NXT-G",
+      "url": "http://en.wikipedia.org/wiki/NXT-G"
+    },
+    {
+      "name": "o:XML",
+      "url": "http://en.wikipedia.org/wiki/O:XML"
+    },
+    {
+      "name": "Oak",
+      "url": "http://en.wikipedia.org/wiki/Oak_(programming_language)"
+    },
+    {
+      "name": "Oberon",
+      "url": "http://en.wikipedia.org/wiki/Oberon_(programming_language)"
+    },
+    {
+      "name": "Obix",
+      "url": "http://en.wikipedia.org/wiki/Obix_programming_language"
+    },
+    {
+      "name": "OBJ2",
+      "url": "http://en.wikipedia.org/wiki/OBJ2"
+    },
+    {
+      "name": "Object Lisp",
+      "url": "http://en.wikipedia.org/wiki/Object_Lisp"
+    },
+    {
+      "name": "ObjectLOGO",
+      "url": "http://en.wikipedia.org/wiki/ObjectLOGO"
+    },
+    {
+      "name": "Object REXX",
+      "url": "http://en.wikipedia.org/wiki/Object_REXX"
+    },
+    {
+      "name": "Object Pascal",
+      "url": "http://en.wikipedia.org/wiki/Object_Pascal"
+    },
+    {
+      "name": "Objective-C",
+      "url": "http://en.wikipedia.org/wiki/Objective-C"
+    },
+    {
+      "name": "Objective-J",
+      "url": "http://en.wikipedia.org/wiki/Objective-J"
+    },
+    {
+      "name": "Obliq",
+      "url": "http://en.wikipedia.org/wiki/Obliq"
+    },
+    {
+      "name": "Obol",
+      "url": "http://en.wikipedia.org/wiki/Obol_(programming_language)"
+    },
+    {
+      "name": "OCaml",
+      "url": "http://en.wikipedia.org/wiki/OCaml"
+    },
+    {
+      "name": "occam",
+      "url": "http://en.wikipedia.org/wiki/Occam_(programming_language)"
+    },
+    {
+      "name": "occam-π",
+      "url": "http://en.wikipedia.org/wiki/Occam-%CF%80"
+    },
+    {
+      "name": "Octave",
+      "url": "http://en.wikipedia.org/wiki/GNU_Octave"
+    },
+    {
+      "name": "OmniMark",
+      "url": "http://en.wikipedia.org/wiki/OmniMark"
+    },
+    {
+      "name": "Onyx",
+      "url": "http://en.wikipedia.org/wiki/Onyx_(programming_language)"
+    },
+    {
+      "name": "Opa",
+      "url": "http://en.wikipedia.org/wiki/Opa_(programming_language)"
+    },
+    {
+      "name": "Opal",
+      "url": "http://en.wikipedia.org/wiki/Opal_(programming_language)"
+    },
+    {
+      "name": "OpenCL",
+      "url": "http://en.wikipedia.org/wiki/OpenCL"
+    },
+    {
+      "name": "OpenEdge ABL",
+      "url": "http://en.wikipedia.org/wiki/OpenEdge_Advanced_Business_Language"
+    },
+    {
+      "name": "OPL",
+      "url": "http://en.wikipedia.org/wiki/Open_Programming_Language"
+    },
+    {
+      "name": "OPS5",
+      "url": "http://en.wikipedia.org/wiki/OPS5"
+    },
+    {
+      "name": "OptimJ",
+      "url": "http://en.wikipedia.org/wiki/OptimJ"
+    },
+    {
+      "name": "Orc",
+      "url": "http://en.wikipedia.org/wiki/Orc_(programming_language)"
+    },
+    {
+      "name": "ORCA/Modula-2",
+      "url": "http://en.wikipedia.org/wiki/ORCA/Modula-2"
+    },
+    {
+      "name": "Oriel",
+      "url": "http://en.wikipedia.org/wiki/Oriel_(scripting_language)"
+    },
+    {
+      "name": "Orwell",
+      "url": "http://en.wikipedia.org/wiki/Orwell_(programming_language)"
+    },
+    {
+      "name": "Oxygene",
+      "url": "http://en.wikipedia.org/wiki/Oxygene_(programming_language)"
+    },
+    {
+      "name": "Oz",
+      "url": "http://en.wikipedia.org/wiki/Oz_(programming_language)"
+    },
+    {
+      "name": "P#",
+      "url": "http://en.wikipedia.org/wiki/P_Sharp"
+    },
+    {
+      "name": "ParaSail (programming language)",
+      "url": "http://en.wikipedia.org/wiki/ParaSail_(programming_language)"
+    },
+    {
+      "name": "PARI/GP",
+      "url": "http://en.wikipedia.org/wiki/PARI/GP"
+    },
+    {
+      "name": "Pascal",
+      "url": "http://en.wikipedia.org/wiki/Pascal_(programming_language)"
+    },
+    {
+      "name": "Pawn",
+      "url": "http://en.wikipedia.org/wiki/Pawn_(programming_language)"
+    },
+    {
+      "name": "PCASTL",
+      "url": "http://en.wikipedia.org/wiki/PCASTL"
+    },
+    {
+      "name": "PCF",
+      "url": "http://en.wikipedia.org/wiki/Programming_language_for_Computable_Functions"
+    },
+    {
+      "name": "PEARL",
+      "url": "http://en.wikipedia.org/wiki/PEARL_(programming_language)"
+    },
+    {
+      "name": "PeopleCode",
+      "url": "http://en.wikipedia.org/wiki/PeopleCode"
+    },
+    {
+      "name": "Perl",
+      "url": "http://en.wikipedia.org/wiki/Perl"
+    },
+    {
+      "name": "PDL",
+      "url": "http://en.wikipedia.org/wiki/Perl_Data_Language"
+    },
+    {
+      "name": "PHP",
+      "url": "http://en.wikipedia.org/wiki/PHP"
+    },
+    {
+      "name": "Phrogram",
+      "url": "http://en.wikipedia.org/wiki/Phrogram"
+    },
+    {
+      "name": "Pico",
+      "url": "http://en.wikipedia.org/wiki/Pico_(programming_language)"
+    },
+    {
+      "name": "Picolisp",
+      "url": "http://en.wikipedia.org/wiki/Picolisp"
+    },
+    {
+      "name": "Pict",
+      "url": "http://en.wikipedia.org/wiki/Pict_(programming_language)"
+    },
+    {
+      "name": "Pike",
+      "url": "http://en.wikipedia.org/wiki/Pike_(programming_language)"
+    },
+    {
+      "name": "PIKT",
+      "url": "http://en.wikipedia.org/wiki/PIKT"
+    },
+    {
+      "name": "PILOT",
+      "url": "http://en.wikipedia.org/wiki/PILOT"
+    },
+    {
+      "name": "Pipelines",
+      "url": "http://en.wikipedia.org/wiki/Hartmann_pipeline"
+    },
+    {
+      "name": "Pizza",
+      "url": "http://en.wikipedia.org/wiki/Pizza_(programming_language)"
+    },
+    {
+      "name": "PL-11",
+      "url": "http://en.wikipedia.org/wiki/PL-11"
+    },
+    {
+      "name": "PL/0",
+      "url": "http://en.wikipedia.org/wiki/PL/0"
+    },
+    {
+      "name": "PL/B",
+      "url": "http://en.wikipedia.org/wiki/Programming_Language_for_Business"
+    },
+    {
+      "name": "PL/C",
+      "url": "http://en.wikipedia.org/wiki/PL/C"
+    },
+    {
+      "name": "PL/I",
+      "url": "http://en.wikipedia.org/wiki/PL/I"
+    },
+    {
+      "name": "PL/M",
+      "url": "http://en.wikipedia.org/wiki/PL/M"
+    },
+    {
+      "name": "PL/P",
+      "url": "http://en.wikipedia.org/wiki/PL/P"
+    },
+    {
+      "name": "PL/SQL",
+      "url": "http://en.wikipedia.org/wiki/PL/SQL"
+    },
+    {
+      "name": "PL360",
+      "url": "http://en.wikipedia.org/wiki/PL360"
+    },
+    {
+      "name": "PLANC",
+      "url": "http://en.wikipedia.org/wiki/PLANC"
+    },
+    {
+      "name": "Plankalkül",
+      "url": "http://en.wikipedia.org/wiki/Plankalk%C3%BCl"
+    },
+    {
+      "name": "Planner",
+      "url": "http://en.wikipedia.org/wiki/Planner_(programming_language)"
+    },
+    {
+      "name": "PLEX",
+      "url": "http://en.wikipedia.org/wiki/PLEX_(programming_language)"
+    },
+    {
+      "name": "PLEXIL",
+      "url": "http://en.wikipedia.org/wiki/PLEXIL"
+    },
+    {
+      "name": "Plus",
+      "url": "http://en.wikipedia.org/wiki/Plus_(programming_language)"
+    },
+    {
+      "name": "POP-11",
+      "url": "http://en.wikipedia.org/wiki/POP-11"
+    },
+    {
+      "name": "PostScript",
+      "url": "http://en.wikipedia.org/wiki/PostScript"
+    },
+    {
+      "name": "PortablE",
+      "url": "http://en.wikipedia.org/wiki/Amiga_E#PortablE"
+    },
+    {
+      "name": "Powerhouse",
+      "url": "http://en.wikipedia.org/wiki/Powerhouse_(programming_language)"
+    },
+    {
+      "name": "PowerBuilder",
+      "url": "http://en.wikipedia.org/wiki/PowerBuilder"
+    },
+    {
+      "name": "PowerShell",
+      "url": "http://en.wikipedia.org/wiki/PowerShell"
+    },
+    {
+      "name": "PPL",
+      "url": "http://en.wikipedia.org/wiki/Polymorphic_Programming_Language"
+    },
+    {
+      "name": "Processing",
+      "url": "http://en.wikipedia.org/wiki/Processing_(programming_language)"
+    },
+    {
+      "name": "Processing.js",
+      "url": "http://en.wikipedia.org/wiki/Processing.js"
+    },
+    {
+      "name": "Prograph",
+      "url": "http://en.wikipedia.org/wiki/Prograph"
+    },
+    {
+      "name": "PROIV",
+      "url": "http://en.wikipedia.org/wiki/PROIV"
+    },
+    {
+      "name": "Prolog",
+      "url": "http://en.wikipedia.org/wiki/Prolog"
+    },
+    {
+      "name": "PROMAL",
+      "url": "http://en.wikipedia.org/wiki/PROMAL"
+    },
+    {
+      "name": "Promela",
+      "url": "http://en.wikipedia.org/wiki/Promela"
+    },
+    {
+      "name": "PROSE modeling language",
+      "url": "http://en.wikipedia.org/wiki/PROSE_modeling_language"
+    },
+    {
+      "name": "PROTEL",
+      "url": "http://en.wikipedia.org/wiki/Protel"
+    },
+    {
+      "name": "ProvideX",
+      "url": "http://en.wikipedia.org/wiki/ProvideX"
+    },
+    {
+      "name": "Pro*C",
+      "url": "http://en.wikipedia.org/wiki/Pro*C"
+    },
+    {
+      "name": "Pure",
+      "url": "http://en.wikipedia.org/wiki/Pure_(programming_language)"
+    },
+    {
+      "name": "Python",
+      "url": "http://en.wikipedia.org/wiki/Python_(programming_language)"
+    },
+    {
+      "name": "Q (equational programming language)",
+      "url": "http://en.wikipedia.org/wiki/Q_(equational_programming_language)"
+    },
+    {
+      "name": "Q (programming language from Kx Systems)",
+      "url": "http://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)"
+    },
+    {
+      "name": "Qalb",
+      "url": "http://en.wikipedia.org/wiki/Qalb_(programming_language)"
+    },
+    {
+      "name": "Qi",
+      "url": "http://en.wikipedia.org/wiki/Qi_(programming_language)"
+    },
+    {
+      "name": "QtScript",
+      "url": "http://en.wikipedia.org/wiki/QtScript"
+    },
+    {
+      "name": "QuakeC",
+      "url": "http://en.wikipedia.org/wiki/QuakeC"
+    },
+    {
+      "name": "QPL",
+      "url": "http://en.wikipedia.org/wiki/Quantum_programming"
+    },
+    {
+      "name": "R",
+      "url": "http://en.wikipedia.org/wiki/R_(programming_language)"
+    },
+    {
+      "name": "R++",
+      "url": "http://en.wikipedia.org/wiki/R%2B%2B"
+    },
+    {
+      "name": "Racket",
+      "url": "http://en.wikipedia.org/wiki/Racket_(programming_language)"
+    },
+    {
+      "name": "RAPID",
+      "url": "http://en.wikipedia.org/wiki/RAPID"
+    },
+    {
+      "name": "Rapira",
+      "url": "http://en.wikipedia.org/wiki/Rapira"
+    },
+    {
+      "name": "Ratfiv",
+      "url": "http://en.wikipedia.org/wiki/Ratfiv"
+    },
+    {
+      "name": "Ratfor",
+      "url": "http://en.wikipedia.org/wiki/Ratfor"
+    },
+    {
+      "name": "rc",
+      "url": "http://en.wikipedia.org/wiki/Rc"
+    },
+    {
+      "name": "REBOL",
+      "url": "http://en.wikipedia.org/wiki/REBOL"
+    },
+    {
+      "name": "Red",
+      "url": "http://en.wikipedia.org/wiki/Red_(programming_language)"
+    },
+    {
+      "name": "Redcode",
+      "url": "http://en.wikipedia.org/wiki/Core_War"
+    },
+    {
+      "name": "REFAL",
+      "url": "http://en.wikipedia.org/wiki/REFAL"
+    },
+    {
+      "name": "Reia",
+      "url": "http://en.wikipedia.org/wiki/Reia_(programming_language)"
+    },
+    {
+      "name": "Revolution",
+      "url": "http://en.wikipedia.org/wiki/Revolution_(programming_language)"
+    },
+    {
+      "name": "rex",
+      "url": "http://en.wikipedia.org/wiki/Rex_(language)"
+    },
+    {
+      "name": "REXX",
+      "url": "http://en.wikipedia.org/wiki/REXX"
+    },
+    {
+      "name": "Rlab",
+      "url": "http://en.wikipedia.org/wiki/Rlab"
+    },
+    {
+      "name": "RobotC",
+      "url": "http://en.wikipedia.org/wiki/RobotC"
+    },
+    {
+      "name": "ROOP",
+      "url": "http://en.wikipedia.org/wiki/ROOP_(programming_language)"
+    },
+    {
+      "name": "RPG",
+      "url": "http://en.wikipedia.org/wiki/IBM_RPG"
+    },
+    {
+      "name": "RPL",
+      "url": "http://en.wikipedia.org/wiki/RPL_(programming_language)"
+    },
+    {
+      "name": "RSL",
+      "url": "http://en.wikipedia.org/wiki/Robot_Battle#Robot_scripting_language"
+    },
+    {
+      "name": "RTL/2",
+      "url": "http://en.wikipedia.org/wiki/RTL/2"
+    },
+    {
+      "name": "Ruby",
+      "url": "http://en.wikipedia.org/wiki/Ruby_(programming_language)"
+    },
+    {
+      "name": "RuneScript",
+      "url": "http://en.wikipedia.org/wiki/RuneScape#History_and_development"
+    },
+    {
+      "name": "Rust",
+      "url": "http://en.wikipedia.org/wiki/Rust_(programming_language)"
+    },
+    {
+      "name": "S",
+      "url": "http://en.wikipedia.org/wiki/S_(programming_language)"
+    },
+    {
+      "name": "S2",
+      "url": "http://en.wikipedia.org/wiki/S2_(programming_language)"
+    },
+    {
+      "name": "S3",
+      "url": "http://en.wikipedia.org/wiki/S3_(programming_language)"
+    },
+    {
+      "name": "S-Lang",
+      "url": "http://en.wikipedia.org/wiki/S-Lang_(programming_language)"
+    },
+    {
+      "name": "S-PLUS",
+      "url": "http://en.wikipedia.org/wiki/S-PLUS"
+    },
+    {
+      "name": "SA-C",
+      "url": "http://en.wikipedia.org/wiki/SA-C_(programming_language)"
+    },
+    {
+      "name": "SabreTalk",
+      "url": "http://en.wikipedia.org/wiki/SabreTalk"
+    },
+    {
+      "name": "SAIL",
+      "url": "http://en.wikipedia.org/wiki/SAIL_(programming_language)"
+    },
+    {
+      "name": "SALSA",
+      "url": "http://en.wikipedia.org/wiki/SALSA_(programming_language)"
+    },
+    {
+      "name": "SAM76",
+      "url": "http://en.wikipedia.org/wiki/SAM76"
+    },
+    {
+      "name": "SAS",
+      "url": "http://en.wikipedia.org/wiki/SAS_System"
+    },
+    {
+      "name": "SASL",
+      "url": "http://en.wikipedia.org/wiki/SASL_(programming_language)"
+    },
+    {
+      "name": "Sather",
+      "url": "http://en.wikipedia.org/wiki/Sather"
+    },
+    {
+      "name": "Sawzall",
+      "url": "http://en.wikipedia.org/wiki/Sawzall_(programming_language)"
+    },
+    {
+      "name": "SBL",
+      "url": "http://en.wikipedia.org/wiki/Superbase_database"
+    },
+    {
+      "name": "Scala",
+      "url": "http://en.wikipedia.org/wiki/Scala_(programming_language)"
+    },
+    {
+      "name": "Scheme",
+      "url": "http://en.wikipedia.org/wiki/Scheme_(programming_language)"
+    },
+    {
+      "name": "Scilab",
+      "url": "http://en.wikipedia.org/wiki/Scilab"
+    },
+    {
+      "name": "Scratch",
+      "url": "http://en.wikipedia.org/wiki/Scratch_(programming_language)"
+    },
+    {
+      "name": "Script.NET",
+      "url": "http://en.wikipedia.org/wiki/Script.NET"
+    },
+    {
+      "name": "Sed",
+      "url": "http://en.wikipedia.org/wiki/Sed"
+    },
+    {
+      "name": "Seed7",
+      "url": "http://en.wikipedia.org/wiki/Seed7"
+    },
+    {
+      "name": "Self",
+      "url": "http://en.wikipedia.org/wiki/Self_(programming_language)"
+    },
+    {
+      "name": "SenseTalk",
+      "url": "http://en.wikipedia.org/wiki/SenseTalk"
+    },
+    {
+      "name": "SequenceL",
+      "url": "http://en.wikipedia.org/wiki/SequenceL"
+    },
+    {
+      "name": "SETL",
+      "url": "http://en.wikipedia.org/wiki/SETL"
+    },
+    {
+      "name": "Shift Script",
+      "url": "http://en.wikipedia.org/wiki/Shift_Script"
+    },
+    {
+      "name": "SIMPOL",
+      "url": "http://en.wikipedia.org/wiki/Superbase_database#History"
+    },
+    {
+      "name": "Shakespeare",
+      "url": "http://en.wikipedia.org/wiki/Shakespeare"
+    },
+    {
+      "name": "SIGNAL",
+      "url": "http://en.wikipedia.org/wiki/SIGNAL_(programming_language)"
+    },
+    {
+      "name": "SiMPLE",
+      "url": "http://en.wikipedia.org/wiki/SiMPLE"
+    },
+    {
+      "name": "SIMSCRIPT",
+      "url": "http://en.wikipedia.org/wiki/SIMSCRIPT"
+    },
+    {
+      "name": "Simula",
+      "url": "http://en.wikipedia.org/wiki/Simula"
+    },
+    {
+      "name": "Simulink",
+      "url": "http://en.wikipedia.org/wiki/Simulink"
+    },
+    {
+      "name": "SISAL",
+      "url": "http://en.wikipedia.org/wiki/SISAL"
+    },
+    {
+      "name": "SLIP",
+      "url": "http://en.wikipedia.org/wiki/SLIP_(programming_language)"
+    },
+    {
+      "name": "SMALL",
+      "url": "http://en.wikipedia.org/wiki/SMALL"
+    },
+    {
+      "name": "Smalltalk",
+      "url": "http://en.wikipedia.org/wiki/Smalltalk"
+    },
+    {
+      "name": "Small Basic",
+      "url": "http://en.wikipedia.org/wiki/SmallBASIC"
+    },
+    {
+      "name": "SML",
+      "url": "http://en.wikipedia.org/wiki/Standard_ML"
+    },
+    {
+      "name": "Snap!",
+      "url": "http://en.wikipedia.org/wiki/Snap!_(programming_language)"
+    },
+    {
+      "name": "SNOBOL",
+      "url": "http://en.wikipedia.org/wiki/SNOBOL"
+    },
+    {
+      "name": "SPITBOL",
+      "url": "http://en.wikipedia.org/wiki/SPITBOL_compiler"
+    },
+    {
+      "name": "Snowball",
+      "url": "http://en.wikipedia.org/wiki/Snowball_programming_language"
+    },
+    {
+      "name": "SOL",
+      "url": "http://en.wikipedia.org/wiki/Secure_Operations_Language"
+    },
+    {
+      "name": "Span",
+      "url": "http://en.wikipedia.org/wiki/Span_(programming_language)"
+    },
+    {
+      "name": "SPARK",
+      "url": "http://en.wikipedia.org/wiki/SPARK_(programming_language)"
+    },
+    {
+      "name": "SPIN",
+      "url": "http://en.wikipedia.org/wiki/Parallax_Propeller"
+    },
+    {
+      "name": "SP/k",
+      "url": "http://en.wikipedia.org/wiki/SP/k"
+    },
+    {
+      "name": "SPS",
+      "url": "http://en.wikipedia.org/wiki/IBM_1401_Symbolic_Programming_System"
+    },
+    {
+      "name": "Squeak",
+      "url": "http://en.wikipedia.org/wiki/Squeak"
+    },
+    {
+      "name": "Squirrel",
+      "url": "http://en.wikipedia.org/wiki/Squirrel_(programming_language)"
+    },
+    {
+      "name": "SR",
+      "url": "http://en.wikipedia.org/wiki/SR_(programming_language)"
+    },
+    {
+      "name": "S/SL",
+      "url": "http://en.wikipedia.org/wiki/S/SL_programming_language"
+    },
+    {
+      "name": "Stackless Python",
+      "url": "http://en.wikipedia.org/wiki/Stackless_Python"
+    },
+    {
+      "name": "Starlogo",
+      "url": "http://en.wikipedia.org/wiki/Starlogo"
+    },
+    {
+      "name": "Strand",
+      "url": "http://en.wikipedia.org/wiki/Strand_(programming_language)"
+    },
+    {
+      "name": "Stata",
+      "url": "http://en.wikipedia.org/wiki/Stata"
+    },
+    {
+      "name": "Stateflow",
+      "url": "http://en.wikipedia.org/wiki/Stateflow"
+    },
+    {
+      "name": "Subtext",
+      "url": "http://en.wikipedia.org/wiki/Subtext_(programming_language)"
+    },
+    {
+      "name": "SuperCollider",
+      "url": "http://en.wikipedia.org/wiki/SuperCollider"
+    },
+    {
+      "name": "SuperTalk",
+      "url": "http://en.wikipedia.org/wiki/SuperTalk"
+    },
+    {
+      "name": "Swift (Apple programming language)",
+      "url": "http://en.wikipedia.org/wiki/Swift_(programming_language)"
+    },
+    {
+      "name": "Swift (parallel scripting language)",
+      "url": "http://en.wikipedia.org/wiki/Swift_(parallel_scripting_language)"
+    },
+    {
+      "name": "SYMPL",
+      "url": "http://en.wikipedia.org/wiki/SYMPL"
+    },
+    {
+      "name": "SyncCharts",
+      "url": "http://en.wikipedia.org/wiki/SyncCharts"
+    },
+    {
+      "name": "SystemVerilog",
+      "url": "http://en.wikipedia.org/wiki/SystemVerilog"
+    },
+    {
+      "name": "T",
+      "url": "http://en.wikipedia.org/wiki/T_(programming_language)"
+    },
+    {
+      "name": "TACL",
+      "url": "http://en.wikipedia.org/wiki/TACL"
+    },
+    {
+      "name": "TACPOL",
+      "url": "http://en.wikipedia.org/wiki/TACPOL_(programming_language)"
+    },
+    {
+      "name": "TADS",
+      "url": "http://en.wikipedia.org/wiki/TADS"
+    },
+    {
+      "name": "TAL",
+      "url": "http://en.wikipedia.org/wiki/Transaction_Application_Language"
+    },
+    {
+      "name": "Tcl",
+      "url": "http://en.wikipedia.org/wiki/Tcl"
+    },
+    {
+      "name": "Tea",
+      "url": "http://en.wikipedia.org/wiki/Tea_(programming_language)"
+    },
+    {
+      "name": "TECO",
+      "url": "http://en.wikipedia.org/wiki/Text_Editor_and_Corrector"
+    },
+    {
+      "name": "TELCOMP",
+      "url": "http://en.wikipedia.org/wiki/TELCOMP"
+    },
+    {
+      "name": "TeX",
+      "url": "http://en.wikipedia.org/wiki/TeX"
+    },
+    {
+      "name": "TEX",
+      "url": "http://en.wikipedia.org/wiki/Text_Executive_Programming_Language"
+    },
+    {
+      "name": "TIE",
+      "url": "http://en.wikipedia.org/wiki/Tensilica_Instruction_Extension"
+    },
+    {
+      "name": "Timber",
+      "url": "http://en.wikipedia.org/wiki/Timber_(programming_language)"
+    },
+    {
+      "name": "TMG",
+      "url": "http://en.wikipedia.org/wiki/TMG_(language)"
+    },
+    {
+      "name": "Tom",
+      "url": "http://en.wikipedia.org/wiki/Tom_(pattern_matching_language)"
+    },
+    {
+      "name": "TOM",
+      "url": "http://en.wikipedia.org/wiki/TOM_(object-oriented_programming_language)"
+    },
+    {
+      "name": "Topspeed",
+      "url": "http://en.wikipedia.org/wiki/Clarion_(programming_language)"
+    },
+    {
+      "name": "TPU",
+      "url": "http://en.wikipedia.org/wiki/Text_Processing_Utility"
+    },
+    {
+      "name": "Trac",
+      "url": "http://en.wikipedia.org/wiki/TRAC_(programming_language)"
+    },
+    {
+      "name": "TTM",
+      "url": "http://en.wikipedia.org/wiki/TTM_(programming_language)"
+    },
+    {
+      "name": "T-SQL",
+      "url": "http://en.wikipedia.org/wiki/Transact-SQL"
+    },
+    {
+      "name": "TTCN",
+      "url": "http://en.wikipedia.org/wiki/TTCN"
+    },
+    {
+      "name": "Turing",
+      "url": "http://en.wikipedia.org/wiki/Turing_(programming_language)"
+    },
+    {
+      "name": "TUTOR",
+      "url": "http://en.wikipedia.org/wiki/TUTOR_(programming_language)"
+    },
+    {
+      "name": "TXL",
+      "url": "http://en.wikipedia.org/wiki/TXL_(programming_language)"
+    },
+    {
+      "name": "TypeScript",
+      "url": "http://en.wikipedia.org/wiki/TypeScript"
+    },
+    {
+      "name": "Turbo C++",
+      "url": "http://en.wikipedia.org/wiki/Turbo_C%2B%2B"
+    },
+    {
+      "name": "Ubercode",
+      "url": "http://en.wikipedia.org/wiki/Ubercode"
+    },
+    {
+      "name": "UCSD Pascal",
+      "url": "http://en.wikipedia.org/wiki/UCSD_Pascal"
+    },
+    {
+      "name": "Umple",
+      "url": "http://en.wikipedia.org/wiki/Umple"
+    },
+    {
+      "name": "Unicon",
+      "url": "http://en.wikipedia.org/wiki/Unicon_(programming_language)"
+    },
+    {
+      "name": "Uniface",
+      "url": "http://en.wikipedia.org/wiki/Uniface_(programming_language)"
+    },
+    {
+      "name": "UNITY",
+      "url": "http://en.wikipedia.org/wiki/UNITY_(programming_language)"
+    },
+    {
+      "name": "Unix shell",
+      "url": "http://en.wikipedia.org/wiki/Unix_shell"
+    },
+    {
+      "name": "UnrealScript",
+      "url": "http://en.wikipedia.org/wiki/UnrealScript"
+    },
+    {
+      "name": "Vala",
+      "url": "http://en.wikipedia.org/wiki/Vala_(programming_language)"
+    },
+    {
+      "name": "VBA",
+      "url": "http://en.wikipedia.org/wiki/Visual_Basic_for_Applications"
+    },
+    {
+      "name": "VBScript",
+      "url": "http://en.wikipedia.org/wiki/VBScript"
+    },
+    {
+      "name": "Verilog",
+      "url": "http://en.wikipedia.org/wiki/Verilog"
+    },
+    {
+      "name": "VHDL",
+      "url": "http://en.wikipedia.org/wiki/VHDL"
+    },
+    {
+      "name": "Visual Basic",
+      "url": "http://en.wikipedia.org/wiki/Visual_Basic"
+    },
+    {
+      "name": "Visual Basic .NET",
+      "url": "http://en.wikipedia.org/wiki/Visual_Basic_.NET"
+    },
+    {
+      "name": "Visual DataFlex",
+      "url": "http://en.wikipedia.org/wiki/Visual_DataFlex"
+    },
+    {
+      "name": "Visual DialogScript",
+      "url": "http://en.wikipedia.org/wiki/Visual_DialogScript"
+    },
+    {
+      "name": "Visual Fortran",
+      "url": "http://en.wikipedia.org/wiki/Visual_Fortran"
+    },
+    {
+      "name": "Visual FoxPro",
+      "url": "http://en.wikipedia.org/wiki/Visual_FoxPro"
+    },
+    {
+      "name": "Visual J++",
+      "url": "http://en.wikipedia.org/wiki/Visual_J%2B%2B"
+    },
+    {
+      "name": "Visual J#",
+      "url": "http://en.wikipedia.org/wiki/Visual_J"
+    },
+    {
+      "name": "Visual Objects",
+      "url": "http://en.wikipedia.org/wiki/Visual_Objects"
+    },
+    {
+      "name": "Visual Prolog",
+      "url": "http://en.wikipedia.org/wiki/Visual_Prolog"
+    },
+    {
+      "name": "VSXu",
+      "url": "http://en.wikipedia.org/wiki/VSXu"
+    },
+    {
+      "name": "Vvvv",
+      "url": "http://en.wikipedia.org/wiki/Vvvv"
+    },
+    {
+      "name": "WATFIV, WATFOR",
+      "url": "http://en.wikipedia.org/wiki/WATFIV_(programming_language)"
+    },
+    {
+      "name": "WebDNA",
+      "url": "http://en.wikipedia.org/wiki/WebDNA"
+    },
+    {
+      "name": "WebQL",
+      "url": "http://en.wikipedia.org/wiki/WebQL"
+    },
+    {
+      "name": "Windows PowerShell",
+      "url": "http://en.wikipedia.org/wiki/Windows_PowerShell"
+    },
+    {
+      "name": "Winbatch",
+      "url": "http://en.wikipedia.org/wiki/Winbatch"
+    },
+    {
+      "name": "Wolfram",
+      "url": "http://en.wikipedia.org/wiki/Wolfram_Language"
+    },
+    {
+      "name": "Wyvern",
+      "url": "http://en.wikipedia.org/wiki/Wyvern_(programming_language)"
+    },
+    {
+      "name": "X++",
+      "url": "http://en.wikipedia.org/wiki/Microsoft_Dynamics_AX"
+    },
+    {
+      "name": "X#",
+      "url": "http://en.wikipedia.org/wiki/X_Sharp_(programming_language)"
+    },
+    {
+      "name": "X10",
+      "url": "http://en.wikipedia.org/wiki/X10_(programming_language)"
+    },
+    {
+      "name": "XBL",
+      "url": "http://en.wikipedia.org/wiki/XBL"
+    },
+    {
+      "name": "XC",
+      "url": "http://en.wikipedia.org/wiki/XC_Programming_Language"
+    },
+    {
+      "name": "XMOS architecture",
+      "url": "http://en.wikipedia.org/wiki/XCore_XS1"
+    },
+    {
+      "name": "xHarbour",
+      "url": "http://en.wikipedia.org/wiki/XHarbour"
+    },
+    {
+      "name": "XL",
+      "url": "http://en.wikipedia.org/wiki/XL_(programming_language)"
+    },
+    {
+      "name": "Xojo",
+      "url": "http://en.wikipedia.org/wiki/Xojo"
+    },
+    {
+      "name": "XOTcl",
+      "url": "http://en.wikipedia.org/wiki/XOTcl"
+    },
+    {
+      "name": "XPL",
+      "url": "http://en.wikipedia.org/wiki/XPL"
+    },
+    {
+      "name": "XPL0",
+      "url": "http://en.wikipedia.org/wiki/XPL0"
+    },
+    {
+      "name": "XQuery",
+      "url": "http://en.wikipedia.org/wiki/XQuery"
+    },
+    {
+      "name": "XSB",
+      "url": "http://en.wikipedia.org/wiki/XSB"
+    },
+    {
+      "name": "XSLT",
+      "url": "http://en.wikipedia.org/wiki/XSL_Transformations"
+    },
+    {
+      "name": "XPath",
+      "url": "http://en.wikipedia.org/wiki/XPath"
+    },
+    {
+      "name": "Xtend",
+      "url": "http://en.wikipedia.org/wiki/Xtend"
+    },
+    {
+      "name": "Yorick",
+      "url": "http://en.wikipedia.org/wiki/Yorick_(programming_language)"
+    },
+    {
+      "name": "YQL",
+      "url": "http://en.wikipedia.org/wiki/YQL_(programming_language)"
+    },
+    {
+      "name": "Z notation",
+      "url": "http://en.wikipedia.org/wiki/Z_notation"
+    },
+    {
+      "name": "Zeno",
+      "url": "http://en.wikipedia.org/wiki/Zeno_(programming_language)"
+    },
+    {
+      "name": "ZOPL",
+      "url": "http://en.wikipedia.org/wiki/ZOPL"
+    },
+    {
+      "name": "ZPL",
+      "url": "http://en.wikipedia.org/wiki/ZPL_(programming_language)"
+    }
+  ]

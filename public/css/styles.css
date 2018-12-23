@@ -1,0 +1,49 @@
+body{
+    background: #2b2b2b;
+    font-family: sans-serif;;
+    color: #efefe1;
+    text-align: center;
+}
+
+input[type="text"]{
+    width: 40%;
+    padding: 15px;
+    margin: 15px;
+    background:  rgb(184, 72, 72);
+    font-size: 20px;
+    color: #2b2b2b;
+    font-weight:bold;
+    text-align: center;
+    
+}
+
+button{
+    padding: 10px;
+    margin: 20px;
+    width: 30%;
+    background: rgb(184, 72, 72);
+    border:0;
+    box-sizing: border-box;
+    color: #2b2b2b;
+    font-weight:bold;
+    cursor: pointer;
+    font-size: 25ox;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.papiNinja{
+ padding-top: 50px;
+ padding-right: 15px;
+}
+
+a { 
+color: inherit;
+text-decoration: none;
+ }
+
+ #ima_konami{
+     margin-top:300px;
+ }
