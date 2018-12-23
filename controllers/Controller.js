@@ -36,13 +36,13 @@ app.post('/ninjify',urlencodeParser , function(req, res){
         data.push(req.body);
         var array = ["Chan","Chung","Hitachi","Lee","Kong","Tao","WongTong","Wu"];
         data.push({lName:array[Math.floor(Math.random() * array.length)]});
-        array = ["Caporal","Ninja","Maître","Rambo","Rocky","Senpai","Samouraï","Sensei","Yoda"];
+        array = ["Caporal","General","Ninja","Maître","Rambo","Rocky","Senpai","Samouraï","Sensei"];
         data.push({fName:array[Math.floor(Math.random() * array.length)]});
         data.push({bigName:data[2].fName+' '+data[0].x+ ' ' + data[1].lName});
         res.render('ninjify-name', {data});
     }else{
         //return to index page
-        res.render('ninjify', {qs:req.query});
+        res.render('ninjify', {qs:req.body});
     }
 });
 
